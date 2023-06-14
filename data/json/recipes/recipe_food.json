@@ -9203,6 +9203,7 @@
         [ "seed_chili_pepper", 60 ],
         [ "seed_cucumber", 60 ],
         [ "seed_potato_raw", 3 ],
+        [ "seed_poppy", 30 ],
         [ "seed_weed", 30 ],
         [ "seed_thyme", 60 ],
         [ "seed_canola", 60 ],

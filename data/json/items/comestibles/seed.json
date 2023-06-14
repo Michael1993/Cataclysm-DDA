@@ -371,6 +371,15 @@
   },
   {
     "type": "COMESTIBLE",
+    "id": "seed_poppy",
+    "copy-from": "seed",
+    "price": 50,
+    "name": { "str": "poppy seed", "str_pl": "poppy seeds" },
+    "description": "Some mutated poppy seeds, good for planting.",
+    "seed_data": { "plant_name": "mutated poppy flower", "fruit": "poppy_bud", "byproducts": [ "withered" ], "grow": "90 days" }
+  },
+  {
+    "type": "COMESTIBLE",
     "id": "seed_weed",
     "copy-from": "seed",
     "name": { "str_sp": "cannabis seeds" },

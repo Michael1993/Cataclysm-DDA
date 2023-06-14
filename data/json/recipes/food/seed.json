@@ -315,6 +315,12 @@
     "components": [ [ [ "potato", 1 ] ] ]
   },
   {
+    "result": "seed_poppy",
+    "type": "recipe",
+    "copy-from": "seed_extraction_base",
+    "components": [ [ [ "poppy_bud", 1 ] ] ]
+  },
+  {
     "result": "seed_sunflower",
     "type": "recipe",
     "copy-from": "seed_extraction_base",
